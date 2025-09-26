@@ -55,7 +55,8 @@ Y = 0.299 \cdot R + 0.587 \cdot G + 0.114 \cdot B
 
 | Resize | Threshold |
 |--------|-----------|
-| ![Resize](Resized_Image.png) | ![Threshold](thresold image.png) |
+| ![Resize](Resized_Image.png) | ![Threshold](thresold_image.png) |
+
 
 
 
