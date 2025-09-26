@@ -55,8 +55,6 @@ Y = 0.299 \cdot R + 0.587 \cdot G + 0.114 \cdot B
 
 | Resize | Threshold |
 |--------|-----------|
-| ![Resize](C:/Users/mrshn/Desktop/RESIZED_IMAGE.png) | ![Threshold](C:/Users/mrshn/Desktop/threshold_image.png) |
+| ![Resize](CPP-RGB-to-thresold/Resized_Image.png) | ![Threshold](CPP-RGB-to-threshold/Threshold_Image.png) |
 
-
----
 
